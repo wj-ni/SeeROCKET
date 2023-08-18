@@ -15,7 +15,7 @@ seerocket.py: Implementation of feature transformation in SeeRocket
 
 seerocket_multivariate.py: Expansion of feature transformation in SeeRocket on multivariate variables
 
-LightGBM.py: Example of time series prediction using LightGBM in prediction models
+main.py: Example of time series prediction using LightGBM in prediction models
 
 # Usage
 
